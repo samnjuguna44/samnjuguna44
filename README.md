@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)]
+[![MasterHead](https://user-images.githubusercontent.com/13350450/199620054-bd0cdc51-f52c-4caa-9f26-1be7804d750b.gif)]
 <h1 align="center">Hi 👋, I'm Samson Gicheru Njuguna</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React.Js, MERN, Next.Js**
+- 💬 Ask me about **React.Js, MERN, Next.Js, Typescri**
 
 - 📫 How to reach me **samsongich44@gmail.com**
 
