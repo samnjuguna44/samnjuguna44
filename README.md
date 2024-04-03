@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React.Js, MERN, Next.Js**
 
-- 📫 How to reach me **sam.44njuguna@outlook.com**
+- 📫 How to reach me **samsongich44@gmail.com**
 
 - ⚡ Fun fact **I am a dog lover and love the thrill of fast cars**
 
