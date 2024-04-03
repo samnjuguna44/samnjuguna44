@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React.Js, MERN, Next.Js, Typescri**
+- 💬 Ask me about **React.Js, MERN, Next.Js, Typescript**
 
 - 📫 How to reach me **samsongich44@gmail.com**
 
